@@ -41,7 +41,7 @@ Authors are invited to submit unpublished, original work with a minimum of 6 pag
 - Weijia Xu (proceeding chair), TACC, USA
 - Takuya Akiba, Preferred Networks, Japan
 Thomas S. Brettin, ANL, USA
-- Erich Elsen, Google Brain, USA
+- Erich Elsen, DeepMind, USA
 - Song Feng, IBM Research, USA
 - Boris Ginsburg, Nvidia, USA
 Torsten Hoefler, ETH, Switzerland
