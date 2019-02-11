@@ -1,6 +1,6 @@
 ## Welcome to the Deep Learning on Supecomputers Workshop
 
-The Deep Learning on Supercomputers workshop (DLSuper), colocated with ISC'19, provides a forum for practitioners working on any and all aspects of DL for scientific research in the High Performance Computing (HPC) context to present their latest research results and development, deployment, and application experiences. The general theme of this workshop series is the intersection of DL and HPC, while the theme of this particular workshop is centered around the applications of deep learning methods in scientific research: novel uses of deep learning methods, e.g., convolutional neural networks (CNN), recurrent neural networks (RNN), generative adversarial network (GAN), and reinforcement learning (RL), for both natural and social science research, and innovative applications of deep learning in traditional numerical simulation. Its scope encompasses application development in scientific scenarios using HPC platforms; DL methods applied to numerical simulation; fundamental algorithms, enhanced procedures, and software development methods to enable scalable training and inference; hardware changes with impact on future supercomputer design; and machine deployment, performance evaluation, and reproducibility practices for DL applications with an emphasis on scientific usage.
+The Deep Learning for Science workshop is with ISC'19 on June 20th, 2019 in Frankfurt, Germany. It is the second workshop in the Deep Learning on Supercomputers series. The workshop provides a forum for practitioners working on any and all aspects of DL for scientific research in the High Performance Computing (HPC) context to present their latest research results and development, deployment, and application experiences. The general theme of this workshop series is the intersection of DL and HPC, while the theme of this particular workshop is centered around the applications of deep learning methods in scientific research: novel uses of deep learning methods, e.g., convolutional neural networks (CNN), recurrent neural networks (RNN), generative adversarial network (GAN), and reinforcement learning (RL), for both natural and social science research, and innovative applications of deep learning in traditional numerical simulation. Its scope encompasses application development in scientific scenarios using HPC platforms; DL methods applied to numerical simulation; fundamental algorithms, enhanced procedures, and software development methods to enable scalable training and inference; hardware changes with impact on future supercomputer design; and machine deployment, performance evaluation, and reproducibility practices for DL applications with an emphasis on scientific usage.
 
 Topics include but are not limited to:
 - Emerging scientific applications driven by DL methods
@@ -28,30 +28,43 @@ As part of the reproducibility initiative, the workshop requires authors to prov
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+- Papers due: May 1st, 2019
+- Acceptance notification: May 16th, 2019
+- Camera ready: June 1st, 2019
+- Workshop date: June 20th, 2019
 
-# Header 1
-## Header 2
-### Header 3
+### Paper Submission
 
-- Bulleted
-- List
+Authors are invited to submit unpublished, original work with a minimum of 6 pages and a maximum of 12 pages in single column text with LNCS style. All submissions should be in [LNCS format](http://www.springer.com/de/it-informatik/lncs/conference-proceedings-guidelines) and submitted using [easychair] coming soon.
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+### Organizing Committee
+- Valeriu Codreanu (co-chair), SURFsara, Netherlands
+- Ian Foster (co-chair), UChicago & ANL, USA
+- Zhao Zhang (co-chair), TACC, USA
+- Weijia Xu (proceeding chair), TACC, USA
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DLonSC/DLonSC.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- Takuya Akiba, Preferred Networks, Japan
+Thomas S. Brettin, ANL, USA
+- Erich Elsen, Google Brain, USA
+- Song Feng, IBM Research, USA
+- Boris Ginsburg, Nvidia, USA
+Torsten Hoefler, ETH, Switzerland
+- Jessy Li, UT Austin, USA
+- Peter Messmer, Nvidia, USA
+- Damian Podareanu, SURFsara, Netherlands
+- Simon Portegies Zwart, Leiden Observatory, Netherlands 
+- Judy Qiu, Indiana University, USA
+- Arvind Ramanathan, ORNL, USA
+- Vikram Saletore, Intel, USA
+- Mikhail E. Smorkalov, Intel, Russia
+- Rob Schreiber, Cerebras, USA
+- Dan Stanzione, TACC, USA
+- Rick Stevens, UChicago & ANL, USA
+- Wei Tan, Citadel, USA
+- Jordi Torres, Barcelona Supercomputing Center, Spain
+- Daniela Ushizima, LBNL, USA
+- Sofia Vallecorsa , CERN, Switzerland
+- David Walling, TACC, USA
+- Markus Weimer, Microsoft, USA
+- Kathy Yelick, UC Berkeley & LBNL, USA
