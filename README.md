@@ -24,8 +24,6 @@ As part of the reproducibility initiative, the workshop requires authors to prov
 
 ### Import Dates
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
 - Papers due: May 1st, 2019
 - Acceptance notification: May 16th, 2019
 - Camera ready: June 1st, 2019
@@ -33,7 +31,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ### Paper Submission
 
-Authors are invited to submit unpublished, original work with a minimum of 6 pages and a maximum of 12 pages in single column text with LNCS style. All submissions should be in [LNCS format](http://www.springer.com/de/it-informatik/lncs/conference-proceedings-guidelines) and submitted using [easychair] coming soon.
+Authors are invited to submit unpublished, original work with a minimum of 6 pages and a maximum of 12 pages in single column text with LNCS style. All submissions should be in [LNCS format](http://www.springer.com/de/it-informatik/lncs/conference-proceedings-guidelines) and submitted using [easychair](https://easychair.org/conferences/?conf=dls2019).
 
 
 ### Organizing Committee
