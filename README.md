@@ -66,3 +66,6 @@ Torsten Hoefler, ETH, Switzerland
 - David Walling, TACC, USA
 - Markus Weimer, Microsoft, USA
 - Kathy Yelick, UC Berkeley & LBNL, USA
+
+### Previous Workshop
+[1st Deep Learning on Supercomputers Workshop in SC'18 at Dallas, USA](https://www.tacc.utexas.edu/workshop/2018/deep-learning)
