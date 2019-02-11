@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to the Deep Learning on Supecomputers Workshop
 
-You can use the [editor on GitHub](https://github.com/DLonSC/DLonSC.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The Deep Learning on Supercomputers workshop (DLSuper) provides a forum for practitioners working on any and all aspects of DL for scientific research in the High Performance Computing (HPC) context to present their latest research results and development, deployment, and application experiences. The general theme of this workshop series is the intersection of DL and HPC, while the theme of this particular workshop is centered around the applications of deep learning methods in scientific research: novel uses of deep learning methods, e.g., convolutional neural networks (CNN), recurrent neural networks (RNN), generative adversarial network (GAN), and reinforcement learning (RL), for both natural and social science research, and innovative applications of deep learning in traditional numerical simulation. Its scope encompasses application development in scientific scenarios using HPC platforms; DL methods applied to numerical simulation; fundamental algorithms, enhanced procedures, and software development methods to enable scalable training and inference; hardware changes with impact on future supercomputer design; and machine deployment, performance evaluation, and reproducibility practices for DL applications with an emphasis on scientific usage.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<!--- You can use the [editor on GitHub](https://github.com/DLonSC/DLonSC.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files. -->
+
+<!--- Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files. -->
 
 ### Markdown
 
