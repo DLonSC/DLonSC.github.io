@@ -40,11 +40,11 @@ Authors are invited to submit unpublished, original work with a minimum of 6 pag
 - Zhao Zhang (co-chair), TACC, USA
 - Weijia Xu (proceeding chair), TACC, USA
 - Takuya Akiba, Preferred Networks, Japan
-Thomas S. Brettin, ANL, USA
+- Thomas S. Brettin, ANL, USA
 - Erich Elsen, DeepMind, USA
 - Song Feng, IBM Research, USA
 - Boris Ginsburg, Nvidia, USA
-Torsten Hoefler, ETH, Switzerland
+- Torsten Hoefler, ETH, Switzerland
 - Jessy Li, UT Austin, USA
 - Peter Messmer, Nvidia, USA
 - Damian Podareanu, SURFsara, Netherlands
