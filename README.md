@@ -42,10 +42,12 @@ Authors are invited to submit unpublished, original work with a minimum of 6 pag
 - Takuya Akiba, Preferred Networks, Japan
 - Thomas S. Brettin, ANL, USA
 - Erich Elsen, DeepMind, USA
+- Steve Farrel, LBNL, USA
 - Song Feng, IBM Research, USA
 - Boris Ginsburg, Nvidia, USA
 - Torsten Hoefler, ETH, Switzerland
 - Jessy Li, UT Austin, USA
+- Zhengchun Liu, ANL, USA
 - Peter Messmer, Nvidia, USA
 - Damian Podareanu, SURFsara, Netherlands
 - Simon Portegies Zwart, Leiden Observatory, Netherlands 
