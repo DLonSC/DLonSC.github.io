@@ -24,8 +24,8 @@ As part of the reproducibility initiative, the workshop requires authors to prov
 
 ### Import Dates
 
-- Papers due: May 1st, 2019
-- Acceptance notification: May 16th, 2019
+- Papers due: April 20th, 2019
+- Acceptance notification: May 4th, 2019
 - Camera ready: June 1st, 2019
 - Workshop date: June 20th, 2019
 
