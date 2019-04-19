@@ -16,7 +16,7 @@ Topics include but are not limited to:
 - DL performance modeling and tuning of DL on supercomputers
 - DL benchmarks on supercomputers
 
-As part of the reproducibility initiative, the workshop requires authors to provide information such as the al- gorithms, software releases, datasets, and hardware configurations used. For performance evaluation studies, we will encourage authors to use well-known benchmarks or applications with open accessible datasets: for example, [MLPerf](https://github.com/mlperf/training) and ResNet-50 with the [ImageNet-1K dataset](http://www.image-net.org/archive/stanford/fall11_whole.tar).
+As part of the reproducibility initiative, the workshop requires authors to provide information such as the algorithms, software releases, datasets, and hardware configurations used. For performance evaluation studies, we will encourage authors to use well-known benchmarks or applications with open accessible datasets: for example, [MLPerf](https://github.com/mlperf/training) and ResNet-50 with the [ImageNet-1K dataset](http://www.image-net.org/archive/stanford/fall11_whole.tar).
 
 <!--- You can use the [editor on GitHub](https://github.com/DLonSC/DLonSC.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files. -->
 
@@ -24,7 +24,7 @@ As part of the reproducibility initiative, the workshop requires authors to prov
 
 ### Import Dates
 
-- Papers due: April 20th, 2019
+- Papers due: April 27th, 2019
 - Acceptance notification: May 4th, 2019
 - Camera ready: June 1st, 2019
 - Workshop date: June 20th, 2019
@@ -42,7 +42,7 @@ Authors are invited to submit unpublished, original work with a minimum of 6 pag
 - Takuya Akiba, Preferred Networks, Japan
 - Thomas S. Brettin, ANL, USA
 - Erich Elsen, DeepMind, USA
-- Steve Farrel, LBNL, USA
+- Steve Farrell, LBNL, USA
 - Song Feng, IBM Research, USA
 - Boris Ginsburg, Nvidia, USA
 - Torsten Hoefler, ETH, Switzerland
