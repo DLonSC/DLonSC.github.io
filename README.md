@@ -24,14 +24,14 @@ As part of the reproducibility initiative, the workshop requires authors to prov
 
 ### Import Dates
 
-- Papers due: April 27th, 2019
-- Acceptance notification: May 4th, 2019
+- Papers due: ~~April 27th, 2019~~ May 4th, 2019
+- Acceptance notification: May 11th, 2019
 - Camera ready: June 1st, 2019
 - Workshop date: June 20th, 2019
 
 ### Paper Submission
 
-Authors are invited to submit unpublished, original work with a minimum of 6 pages and a maximum of 12 pages in single column text with LNCS style. All submissions should be in [LNCS format](http://www.springer.com/de/it-informatik/lncs/conference-proceedings-guidelines) and submitted using [easychair](https://easychair.org/conferences/?conf=dls2019).
+Authors are invited to submit an extended abstract with 1-4 pages in single column text with LNCS style. All submissions should be in [LNCS format](http://www.springer.com/de/it-informatik/lncs/conference-proceedings-guidelines) and submitted using [easychair](https://easychair.org/conferences/?conf=dls2019).
 
 
 ### Organizing Committee
