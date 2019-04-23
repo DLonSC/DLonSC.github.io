@@ -24,7 +24,7 @@ As part of the reproducibility initiative, the workshop requires authors to prov
 
 ### Import Dates
 
-- Papers due: ~~April 27th, 2019~~ May 4th, 2019
+- Extended abstract due: ~~April 27th, 2019~~ May 4th, 2019
 - Acceptance notification: May 11th, 2019
 - Camera ready: June 1st, 2019
 - Workshop date: June 20th, 2019
