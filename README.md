@@ -38,27 +38,21 @@ As part of the reproducibility initiative, the workshop requires authors to prov
 - 10:10 -- 10:40 Collider event generation with deep generative models, 
    Sydney Otten, Radboud University Nijmegen
 - 10:40 -- 11:10 TBD, Bill Tang, Princeton University
-
 - 11:00 -- 11:30 Coffee Break
-
 - 11:30 -- 12:00 Generative Modeling of Protein Folding Transitions with Recurrent Auto-encoders, 
    Arvind Ramanathan, Argonne National Laboratory
 - 12:00 -- 12:30 Neural Networks Predict Fluid Dynamics Solutions from Constrained Datasets, 
    Cristina White, Stanford University
 - 12:30 -- 13:00 Machine-learned turbulence in next-generation weather models, 
    Chiel van Heerwaarden, Wageningen University
-
 - 13:00 -- 14:00 Lunch Break
-
 - 14:00 -- 15:00 Keynote, Deep Learning application for High Energy Physics: examples from the LHC, 
    Sofia Vallecorsa, CERN
 - 15:00 -- 15:30 Understanding the Earth system with machine learning, 
    Markus Reichstein, Max Planck Institute for Biogeochemistry
 - 15:30 -- 16:00 Accelerating the simulations of nonlinear dynamical systems in astrophysics with deep learning, 
    Maxwell Cai, Leiden Observatory
-
 - 16:00 -- 16:30 Coffee Break
-
 - 16:30 -- 17:30 Panel Discussion
 
 
