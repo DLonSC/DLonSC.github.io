@@ -31,7 +31,8 @@ As part of the reproducibility initiative, the workshop requires authors to prov
 
 ### Program
 - 9:00 -- 9:10 Opening
-- 9:10 -- 9:40 Deep learning workflows using CANDLE,                                                    Tom Brettin, Argonne National Laboratory
+- 9:10 -- 9:40 Deep learning workflows using CANDLE, 
+               Tom Brettin, Argonne National Laboratory
 - 9:40 -- 10:10 What is Unique in Individual Gait Patterns? Understanding and Interpreting - Deep Learning in Gait Analysis, 
    Fabian Horst, University of Mainz 
 - 10:10 -- 10:40 Collider event generation with deep generative models, 
