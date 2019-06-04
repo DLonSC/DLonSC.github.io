@@ -31,7 +31,10 @@ As part of the reproducibility initiative, the workshop requires authors to prov
 
 ### Program
 | Time | Title | Speaker |
+| ------------- | ------------- | ------------- |
 | 9:00 -- 9:10 | Opening | Valeriu Codreanu, SURFSara |
+
+
 - 9:10 -- 9:40 Deep learning workflows using CANDLE, 
    Tom Brettin, Argonne National Laboratory
 - 9:40 -- 10:10 What is Unique in Individual Gait Patterns? Understanding and Interpreting - Deep Learning in Gait Analysis, 
