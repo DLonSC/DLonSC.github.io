@@ -39,7 +39,7 @@ As part of the reproducibility initiative, the workshop requires authors to prov
 | 10:10--10:40 | Collider event generation with deep generative models | Sydney Otten, Radboud University Nijmegen |
 | 10:40--11:10 | Deep Learning/AI Accelerated Advances in Fusion Energy Science for Disruption Predictions with Implications for Plasma Control | Bill Tang, Princeton University |
 | 11:00--11:30 | Coffee Break | |
-| 11:30--12:00 | Generative Modeling of Protein Folding Transitions with Recurrent Auto-encoders | Arvind Ramanathan, Argonne National Laboratory |
+| 11:30--12:00 | Generative Modeling of Protein Folding Transitions with Recurrent Auto-encoders | Fangfang Xia, Argonne National Laboratory |
 | 12:00--12:30 | Neural Networks Predict Fluid Dynamics Solutions from Constrained Datasets | Cristina White, Stanford University |
 | 12:30--13:00 | Accelerating the simulations of nonlinear dynamical systems in astrophysics with deep learning | Maxwell Cai, Leiden Observatory |
 | 13:00--14:00 | Lunch Break | |
