@@ -30,8 +30,9 @@ As part of the reproducibility initiative, the workshop requires authors to prov
 - Workshop date: June 20th, 2019
 
 ### Program
+
 | Time | Title | Speaker |
-| ------------- | ------------- | ------------- |
+| --- | --- | --- |
 | 9:00 -- 9:10 | Opening | Valeriu Codreanu, SURFSara |
 
 
