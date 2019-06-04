@@ -37,7 +37,7 @@ As part of the reproducibility initiative, the workshop requires authors to prov
 | 9:10--9:40 | Deep learning workflows using CANDLE | Tom Brettin, Argonne National Laboratory |
 | 9:40--10:10 | What is Unique in Individual Gait Patterns? Understanding and Interpreting - Deep<br/> Learning in Gait Analysis | Fabian Horst, University of Mainz |
 | 10:10--10:40 | Collider event generation with deep generative models | Sydney Otten, Radboud University Nijmegen |
-| 10:40--11:10 | Deep Learning/AI Accelerated Advances in Fusion Energy Science for Disruption Predictions with Implications for Plasma Control | Bill Tang, Princeton University |
+| 10:40--11:10 | Deep Learning/AI Accelerated Advances in<br/> Fusion Energy Science for Disruption<br/> Predictions with Implications for Plasma Control | Bill Tang, Princeton University |
 | 11:00--11:30 | Coffee Break | |
 | 11:30--12:00 | Generative Modeling of Protein Folding Transitions with Recurrent Auto-encoders | Arvind Ramanathan, Argonne National Laboratory |
 | 12:00--12:30 | Neural Networks Predict Fluid Dynamics Solutions from Constrained Datasets | Cristina White, Stanford University |
