@@ -22,14 +22,8 @@ As part of the reproducibility initiative, the workshop requires authors to prov
 
 <!--- Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files. -->
 
-### Import Dates
 
-- Extended abstract due: ~~April 27th, 2019~~ May 4th, 2019
-- Acceptance notification: May 11th, 2019
-- Camera ready: June 1st, 2019
-- Workshop date: June 20th, 2019
-
-### Program
+### Program (June 20th, 9AM--6PM, Location: [Platinum 2](https://2019.isc-program.com/map/?location=rPlatinum-2))
 
 | Time | Title | Speaker |
 | --- | --- | --- |
@@ -48,6 +42,13 @@ As part of the reproducibility initiative, the workshop requires authors to prov
 | 15:30--16:00 | Machine-learned turbulence in next-generation weather models | Chiel van Heerwaarden, Wageningen University |
 | 16:00--16:30 | Coffee Break | |
 | 16:30--17:30 | Panel Discussion | |
+
+### Import Dates
+
+- Extended abstract due: ~~April 27th, 2019~~ May 4th, 2019
+- Acceptance notification: May 11th, 2019
+- Camera ready: June 1st, 2019
+- Workshop date: June 20th, 2019
 
 
 ### Paper Submission
