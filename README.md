@@ -1,3 +1,25 @@
+### Program (June 20th, 9AM--6PM, Location: [Platinum 2](https://2019.isc-program.com/map/?location=rPlatinum-2))
+
+| Time | Title | Speaker |
+| --- | --- | --- |
+| 9:00--9:10 | Opening | Valeriu Codreanu, SURFSara |
+| 9:10--9:40 | Deep learning workflows using CANDLE | Tom Brettin, Argonne National Laboratory |
+| 9:40--10:10 | What is Unique in Individual Gait Patterns? Understanding and Interpreting - Deep Learning in Gait Analysis | Fabian Horst, University of Mainz |
+| 10:10--10:40 | Collider event generation with deep generative models | Sydney Otten, Radboud University Nijmegen |
+| 10:40--11:10 | Deep Learning/AI Accelerated Advances in Fusion Energy Science for Disruption Predictions with Implications for Plasma Control | Bill Tang, Princeton University |
+| 11:00--11:30 | Coffee Break | |
+| 11:30--12:00 | Generative Modeling of Protein Folding Transitions with Recurrent Auto-encoders | Fangfang Xia, Argonne National Laboratory |
+| 12:00--12:30 | Neural Networks Predict Fluid Dynamics Solutions from Constrained Datasets | Cristina White, Stanford University |
+| 12:30--13:00 | Accelerating the simulations of nonlinear dynamical systems in astrophysics with deep learning | Maxwell Cai, Leiden Observatory |
+| 13:00--14:00 | Lunch Break | |
+| 14:00--15:00 | Keynote, Deep Learning application for High Energy Physics: examples from the LHC | Sofia Vallecorsa, CERN |
+| 15:00--15:30 | Understanding the Earth system with machine learning | Markus Reichstein, Max Planck Institute for Biogeochemistry|
+| 15:30--16:00 | Machine-learned turbulence in next-generation weather models | Chiel van Heerwaarden, Wageningen University |
+| 16:00--16:30 | Coffee Break | |
+| 16:30--17:30 | Panel Discussion | |
+
+### The Deep Learning for Science Workshop
+
 The Deep Learning for Science workshop is with ISC'19 on June 20th, 2019 in Frankfurt, Germany. It is the second workshop in the Deep Learning on Supercomputers series. The workshop provides a forum for practitioners working on any and all aspects of DL for scientific research in the High Performance Computing (HPC) context to present their latest research results and development, deployment, and application experiences. The general theme of this workshop series is the intersection of DL and HPC, while the theme of this particular workshop is centered around the applications of deep learning methods in scientific research: novel uses of deep learning methods, e.g., convolutional neural networks (CNN), recurrent neural networks (RNN), generative adversarial network (GAN), and reinforcement learning (RL), for both natural and social science research, and innovative applications of deep learning in traditional numerical simulation. Its scope encompasses application development in scientific scenarios using HPC platforms; DL methods applied to numerical simulation; fundamental algorithms, enhanced procedures, and software development methods to enable scalable training and inference; hardware changes with impact on future supercomputer design; and machine deployment, performance evaluation, and reproducibility practices for DL applications with an emphasis on scientific usage.
 
 Topics include but are not limited to:
@@ -23,25 +45,6 @@ As part of the reproducibility initiative, the workshop requires authors to prov
 <!--- Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files. -->
 
 
-### Program (June 20th, 9AM--6PM, Location: [Platinum 2](https://2019.isc-program.com/map/?location=rPlatinum-2))
-
-| Time | Title | Speaker |
-| --- | --- | --- |
-| 9:00--9:10 | Opening | Valeriu Codreanu, SURFSara |
-| 9:10--9:40 | Deep learning workflows using CANDLE | Tom Brettin, Argonne National Laboratory |
-| 9:40--10:10 | What is Unique in Individual Gait Patterns? Understanding and Interpreting - Deep Learning in Gait Analysis | Fabian Horst, University of Mainz |
-| 10:10--10:40 | Collider event generation with deep generative models | Sydney Otten, Radboud University Nijmegen |
-| 10:40--11:10 | Deep Learning/AI Accelerated Advances in Fusion Energy Science for Disruption Predictions with Implications for Plasma Control | Bill Tang, Princeton University |
-| 11:00--11:30 | Coffee Break | |
-| 11:30--12:00 | Generative Modeling of Protein Folding Transitions with Recurrent Auto-encoders | Fangfang Xia, Argonne National Laboratory |
-| 12:00--12:30 | Neural Networks Predict Fluid Dynamics Solutions from Constrained Datasets | Cristina White, Stanford University |
-| 12:30--13:00 | Accelerating the simulations of nonlinear dynamical systems in astrophysics with deep learning | Maxwell Cai, Leiden Observatory |
-| 13:00--14:00 | Lunch Break | |
-| 14:00--15:00 | Keynote, Deep Learning application for High Energy Physics: examples from the LHC | Sofia Vallecorsa, CERN |
-| 15:00--15:30 | Understanding the Earth system with machine learning | Markus Reichstein, Max Planck Institute for Biogeochemistry|
-| 15:30--16:00 | Machine-learned turbulence in next-generation weather models | Chiel van Heerwaarden, Wageningen University |
-| 16:00--16:30 | Coffee Break | |
-| 16:30--17:30 | Panel Discussion | |
 
 ### Import Dates
 
