@@ -9,9 +9,8 @@
 | 10:40--11:10 | Deep Learning/AI Accelerated Advances in Fusion Energy Science for Disruption Predictions with Implications for Plasma Control | Bill Tang, Princeton University |
 | 11:00--11:30 | Coffee Break | |
 | 11:30--12:00 | Generative Modeling of Protein Folding Transitions with Recurrent Auto-encoders | Fangfang Xia, Argonne National Laboratory |
-| 12:00--12:30 | Neural Networks Predict Fluid Dynamics Solutions from Constrained Datasets | Cristina White, Stanford University |
-| 12:30--13:00 | Accelerating the simulations of nonlinear dynamical systems in astrophysics with deep learning | Maxwell Cai, Leiden Observatory |
-| 13:00--14:00 | Lunch Break | |
+| 12:00--12:30 | Accelerating the simulations of nonlinear dynamical systems in astrophysics with deep learning | Maxwell Cai, Leiden Observatory |
+| 12:30--14:00 | Lunch Break | |
 | 14:00--15:00 | Keynote, Deep Learning application for High Energy Physics: examples from the LHC | Sofia Vallecorsa, CERN |
 | 15:00--15:30 | Understanding the Earth system with machine learning | Markus Reichstein, Max Planck Institute for Biogeochemistry|
 | 15:30--16:00 | Machine-learned turbulence in next-generation weather models | Chiel van Heerwaarden, Wageningen University |
