@@ -15,7 +15,7 @@
 | 15:00--15:30 | Understanding the Earth system with machine learning | Markus Reichstein, Max Planck Institute for Biogeochemistry|
 | 15:30--16:00 | Machine-learned turbulence in next-generation weather models | Chiel van Heerwaarden, Wageningen University |
 | 16:00--16:30 | Coffee Break | |
-| 16:30--17:30 | Panel Discussion | |
+| 16:30--17:30 | Panel Discussion: Challenges in Applying Deep Learning to Scientific Research | Panelists: Fangfang Xia, Chiel van Heerwaarden, Sofia Vallecorsa |
 
 ### The Deep Learning for Science Workshop
 
