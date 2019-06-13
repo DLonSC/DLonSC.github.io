@@ -15,7 +15,7 @@
 | 15:00--15:30 | Generative Modeling of Protein Folding Transitions with Recurrent Auto-encoders | Fangfang Xia, Argonne National Laboratory |
 | 15:30--16:00 | Machine-learned turbulence in next-generation weather models | Chiel van Heerwaarden, Wageningen University |
 | 16:00--16:30 | Coffee Break | |
-| 16:30--17:30 | Panel Discussion: Challenges in Applying Deep Learning to Scientific Research | Panelists: Fangfang Xia, Chiel van Heerwaarden, Sofia Vallecorsa |
+| 16:30--17:30 | Panel Discussion: Challenges in Applying Deep Learning to Scientific Research | Panelists: Fangfang Xia, Chiel van Heerwaarden, Sofia Vallecorsa, Markus Reichstein |
 
 ### The Deep Learning for Science Workshop
 
