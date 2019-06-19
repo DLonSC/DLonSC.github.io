@@ -1,3 +1,5 @@
+### Please sign up [DLS email list](https://forms.gle/N7bK4xJra4jm2Fme6).
+
 ### Program (June 20th, 9AM--6PM, Location: [Platinum 2](https://2019.isc-program.com/map/?location=rPlatinum-2))
 
 | Time | Title | Speaker |
