@@ -5,7 +5,7 @@
 | Time | Title | Speaker |
 | --- | --- | --- |
 | 9:00--9:10 | Opening | Valeriu Codreanu, SURFSara |
-| 9:10--9:40 | Deep learning workflows using CANDLE | Tom Brettin, Argonne National Laboratory |
+| 9:10--9:40 | [Deep learning workflows using CANDLE](ISC2019/1_Brettin_DLS_Workshop.pdf) | Tom Brettin, Argonne National Laboratory |
 | 9:40--10:10 | What is Unique in Individual Gait Patterns? Understanding and Interpreting - Deep Learning in Gait Analysis | Fabian Horst, University of Mainz |
 | 10:10--10:40 | Collider event generation with deep generative models | Sydney Otten, Radboud University Nijmegen |
 | 10:40--11:10 | Deep Learning/AI Accelerated Advances in Fusion Energy Science for Disruption Predictions with Implications for Plasma Control | Bill Tang, Princeton University |
