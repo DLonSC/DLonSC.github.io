@@ -8,14 +8,14 @@
 | 9:10--9:40 | [Deep learning workflows using CANDLE](ISC2019/1_Brettin_DLS_Workshop.pdf) | Tom Brettin, Argonne National Laboratory |
 | 9:40--10:10 | [What is Unique in Individual Gait Patterns? Understanding and Interpreting - Deep Learning in Gait Analysis](ISC2019/2_ISC19_Frankfurt_Horst_WhatIsIndividual.pdf) | Fabian Horst, University of Mainz |
 | 10:10--10:40 | [Collider event generation with deep generative models](ISC2019/3_ISC_Collider_event_generation.pdf) | Sydney Otten, Radboud University Nijmegen |
-| 10:40--11:10 | [Deep Learning/AI Accelerated Advances in Fusion Energy Science for Disruption Predictions with Implications for Plasma Control](4_W.M.Tang_ISC-2019_DL_for_Science_Workshop_June_20_2019.pdf) | Bill Tang, Princeton University |
+| 10:40--11:10 | [Deep Learning/AI Accelerated Advances in Fusion Energy Science for Disruption Predictions with Implications for Plasma Control](ISC2019/4_W.M.Tang_ISC-2019_DL_for_Science_Workshop_June_20_2019.pdf) | Bill Tang, Princeton University |
 | 11:00--11:30 | Coffee Break | |
-| 11:30--12:00 | [Understanding the Earth system with machine learning](5_Reichstein_ML-Science2019.pdf) | Markus Reichstein, Max Planck Institute for Biogeochemistry|
-| 12:00--12:30 | [Accelerating the simulations of nonlinear dynamical systems in astrophysics with deep learning](6_ISC19_DLSci_Cai.pdf) | Maxwell Cai, Leiden Observatory |
+| 11:30--12:00 | [Understanding the Earth system with machine learning](ISC2019/5_Reichstein_ML-Science2019.pdf) | Markus Reichstein, Max Planck Institute for Biogeochemistry|
+| 12:00--12:30 | [Accelerating the simulations of nonlinear dynamical systems in astrophysics with deep learning](ISC2019/6_ISC19_DLSci_Cai.pdf) | Maxwell Cai, Leiden Observatory |
 | 12:30--14:00 | Lunch Break | |
-| 14:00--15:00 | Keynote, [Deep Learning application for High Energy Physics: examples from the LHC](7_Keynote_DL_HEP_SofiaVallecorsa.pdf) | Sofia Vallecorsa, CERN |
-| 15:00--15:30 | [Generative Modeling of Protein Folding Transitions with Recurrent Auto-encoders](8_RecurrentAutoencodes_DLS_2019_Bhowmik.pdf) | Fangfang Xia, Argonne National Laboratory |
-| 15:30--16:00 | [Machine-learned turbulence in next-generation weather models](9_Frankfurt_ML_2019.pdf) | Chiel van Heerwaarden, Wageningen University |
+| 14:00--15:00 | Keynote, [Deep Learning application for High Energy Physics: examples from the LHC](ISC2019/7_Keynote_DL_HEP_SofiaVallecorsa.pdf) | Sofia Vallecorsa, CERN |
+| 15:00--15:30 | [Generative Modeling of Protein Folding Transitions with Recurrent Auto-encoders](ISC2019/8_RecurrentAutoencodes_DLS_2019_Bhowmik.pdf) | Fangfang Xia, Argonne National Laboratory |
+| 15:30--16:00 | [Machine-learned turbulence in next-generation weather models](ISC2019/9_Frankfurt_ML_2019.pdf) | Chiel van Heerwaarden, Wageningen University |
 | 16:00--16:30 | Coffee Break | |
 | 16:30--17:30 | Panel Discussion: Challenges in Applying Deep Learning to Scientific Research | Panelists: Fangfang Xia, Chiel van Heerwaarden, Sofia Vallecorsa, Markus Reichstein |
 
