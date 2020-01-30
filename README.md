@@ -1,6 +1,6 @@
-### The Deep Learning for Science Workshop
+### The Deep Learning on Supercomputers Workshop
 
-The Deep Learning for Science workshop is with ISC'20 on June 25th, 2020 in Frankfurt, Germany. It is the second workshop in the Deep Learning on Supercomputers series. The workshop provides a forum for practitioners working on any and all aspects of DL for scientific research in the High Performance Computing (HPC) context to present their latest research results and development, deployment, and application experiences. The general theme of this workshop series is the intersection of DL and HPC, while the theme of this particular workshop is centered around the applications of deep learning methods in scientific research: novel uses of deep learning methods, e.g., convolutional neural networks (CNN), recurrent neural networks (RNN), generative adversarial network (GAN), and reinforcement learning (RL), for both natural and social science research, and innovative applications of deep learning in traditional numerical simulation. Its scope encompasses application development in scientific scenarios using HPC platforms; DL methods applied to numerical simulation; fundamental algorithms, enhanced procedures, and software development methods to enable scalable training and inference; hardware changes with impact on future supercomputer design; and machine deployment, performance evaluation, and reproducibility practices for DL applications with an emphasis on scientific usage.
+The Deep Learning on Supercomputers workshop is with ISC'20 on June 25th, 2020 in Frankfurt, Germany. It is the fourth workshop in the Deep Learning on Supercomputers series. The workshop provides a forum for practitioners working on any and all aspects of DL for scientific research in the High Performance Computing (HPC) context to present their latest research results and development, deployment, and application experiences. The general theme of this workshop series is the intersection of DL and HPC, while the theme of this particular workshop is centered around the applications of deep learning methods in scientific research: novel uses of deep learning methods, e.g., convolutional neural networks (CNN), recurrent neural networks (RNN), generative adversarial network (GAN), and reinforcement learning (RL), for both natural and social science research, and innovative applications of deep learning in traditional numerical simulation. Its scope encompasses application development in scientific scenarios using HPC platforms; DL methods applied to numerical simulation; fundamental algorithms, enhanced procedures, and software development methods to enable scalable training and inference; hardware changes with impact on future supercomputer design; and machine deployment, performance evaluation, and reproducibility practices for DL applications with an emphasis on scientific usage.
 
 Topics include but are not limited to:
 * DL as a novel approach of scientific computing
@@ -40,7 +40,7 @@ As part of the reproducibility initiative, the workshop requires authors to prov
 
 ### Paper Submission
 
-Authors are invited to submit an extended abstract with 1-4 pages in single column text with LNCS style. All submissions should be in [LNCS format](http://www.springer.com/de/it-informatik/lncs/conference-proceedings-guidelines) and submitted using [easychair](https://easychair.org/conferences/?conf=dls2019).
+Authors are invited to submit unpublished, original work with a minimum of 6 pages and a maximum of 12 pages in single column text with LNCS style.  All submissions should be in [LNCS format](http://www.springer.com/de/it-informatik/lncs/conference-proceedings-guidelines) and submitted using [easychair](https://ssl.linklings.net/conferences/isc_hpc/) tentatively.
 
 
 ### Organizing Committee
@@ -48,8 +48,10 @@ Authors are invited to submit an extended abstract with 1-4 pages in single colu
 - Ian Foster (co-chair), UChicago & ANL, USA
 - Zhao Zhang (co-chair), TACC, USA
 - Weijia Xu (proceeding chair), TACC, USA
+- Ahmed Al-Jarro, Fujitsu Laboratories of Europe, UK
 - Takuya Akiba, Preferred Networks, Japan
 - Thomas S. Brettin, ANL, USA
+- Maxwell Cai, SURFsara, Netherlands
 - Erich Elsen, DeepMind, USA
 - Steve Farrell, LBNL, USA
 - Song Feng, IBM Research, USA
@@ -60,10 +62,10 @@ Authors are invited to submit an extended abstract with 1-4 pages in single colu
 - Peter Messmer, Nvidia, USA
 - Damian Podareanu, SURFsara, Netherlands
 - Simon Portegies Zwart, Leiden Observatory, Netherlands 
-- Judy Qiu, Indiana University, USA
-- Arvind Ramanathan, ORNL, USA
+- Qifan Pu, Google, USA
+- Arvind Ramanathan, ANL, USA
 - Vikram Saletore, Intel, USA
-- Mikhail E. Smorkalov, Intel, Russia
+- Mikhail E. Smorkalov, Huawei, Russia
 - Rob Schreiber, Cerebras, USA
 - Dan Stanzione, TACC, USA
 - Rick Stevens, UChicago & ANL, USA
@@ -74,6 +76,7 @@ Authors are invited to submit an extended abstract with 1-4 pages in single colu
 - David Walling, TACC, USA
 - Markus Weimer, Microsoft, USA
 - Kathy Yelick, UC Berkeley & LBNL, USA
+- Huazhe Zhang, Facebook, USA
 
 ### Previous Workshop
 [1st Deep Learning on Supercomputers Workshop in SC'18 at Dallas, USA](https://www.tacc.utexas.edu/workshop/2018/deep-learning)
