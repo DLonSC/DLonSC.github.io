@@ -40,7 +40,7 @@ As part of the reproducibility initiative, the workshop requires authors to prov
 
 ### Paper Submission
 
-Authors are invited to submit unpublished, original work with a minimum of 6 pages and a maximum of 12 pages in single column text with LNCS style.  All submissions should be in [LNCS format](http://www.springer.com/de/it-informatik/lncs/conference-proceedings-guidelines) and submitted using [easychair](https://ssl.linklings.net/conferences/isc_hpc/) tentatively.
+Authors are invited to submit unpublished, original work with a minimum of 6 pages and a maximum of 12 pages in single column text with LNCS style.  All submissions should be in [LNCS format](http://www.springer.com/de/it-informatik/lncs/conference-proceedings-guidelines) and submitted using [linklings](https://ssl.linklings.net/conferences/isc_hpc/) tentatively.
 
 
 ### Organizing Committee
