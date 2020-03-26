@@ -32,8 +32,8 @@ As part of the reproducibility initiative, the workshop requires authors to prov
 
 ### Import Dates
 
-- Technical paper due: Mar 31st, 2020
-- Acceptance notification: Apr 16th, 2020
+- Technical paper due: ~~Mar 31st, 2020~~ Apr 15th, 2020
+- Acceptance notification: ~~Apr 16th, 2020~~ Apr 25th, 2020
 - Camera ready: May 15th, 2020
 - Workshop date: June 25th, 2020
 
