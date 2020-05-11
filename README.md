@@ -32,10 +32,10 @@ As part of the reproducibility initiative, the workshop requires authors to prov
 
 ### Import Dates
 
-- Technical paper due: ~~Mar 31st, 2020~~ May 10th, 2020
-- Acceptance notification: ~~Apr 16th, 2020~~ May 24th, 2020
-- Camera ready: June 1st, 2020
-- Workshop date: June 25th, 2020
+- Technical paper due: ~~May 10th, 2020~~ The workshop is cancelled for ISC'20 and will be rescheduled for ISC'21.
+- Acceptance notification: ~~May 24th, 2020~~ The workshop is cancelled for ISC'20 and will be rescheduled for ISC'21.
+- Camera ready: May, 2021
+- Workshop date: June, 2021
 
 
 ### Paper Submission
