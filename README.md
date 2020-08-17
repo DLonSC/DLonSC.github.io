@@ -28,10 +28,10 @@ As part of the reproducibility initiative, the workshop requires authors to prov
 
 ### Import Dates (Tentative)
 
-- Papers due: Sep 1st, 2020
-- Acceptance notification: Sep 16th, 2020
+- Papers due: ~~Sep 1st, 2020~~ Sep 15th, 2020
+- Acceptance notification: ~~Sep 16th, 2020~~ Sep 26th, 2020
 - Camera ready: Oct 1st, 2020
-- Workshop date: Nov 15th, 2020
+- Workshop date: Nov 11th, 2020
 
 ### Paper Submission
 
