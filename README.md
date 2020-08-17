@@ -26,7 +26,7 @@ As part of the reproducibility initiative, the workshop requires authors to prov
 
 <!--- Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files. -->
 
-### Import Dates (Tentative)
+### Import Dates
 
 - Papers due: ~~Sep 1st, 2020~~ Sep 15th, 2020
 - Acceptance notification: ~~Sep 16th, 2020~~ Sep 26th, 2020
