@@ -1,6 +1,26 @@
 ![TCHPC](https://tc.computer.org/tchpc/wp-content/uploads/sites/3/2017/06/tchpc_logo_cmyk.png){:width="300px"}
 ![SC20](https://sc20.supercomputing.org/app/uploads/2019/07/20-ogimage.png){:width="300px"}
 
+### Program (Nov 11th, 10AM--18:10, US EST)
+
+| Time | Title | Speaker |
+| --- | --- | --- |
+| 10:00--10:10 | Opening | Workshop Chairs |
+| 10:10--11:10 | Keynote: TBD | Rick Stevens, ANL |
+| 11:10--11:30 | Morning Break | |
+| 11:30--12:00 | Online-Codistillation Meets LARS; Going beyond the Limit of Data Parallelism in Deep Learning |  Shogo Murai, Preferred Networks Inc |
+| 12:00--13:00 | Lunch Break |  |
+| 13:00--14:00 | Exploring the limits of concurrency in ML Training on Google TPUs | Sameer Kumar, Google |
+| 14:00--14:30 |SC'20 Break | |
+| 14:30--15:00 | Time-Based Roofline for Deep Learning Performance Analysis | Yunsong Wang, LBNL |
+| 15:00--15:30 | Towards a Scalable and Distributed Infrastructure for Deep Learning Applications | Bita Hasheminezhad, LSU |
+| 15:30--16:00 | DDLBench: Towards a Scalable Benchmarking Infrastructure for Distributed Deep Learning | Matthijs S. Jansen, SURFsara |
+| 16:00--16:30 | Afternoon Break | |
+| 16:30--17:00 | Vandermonde Wave Function Ansatz for Improved Variational Monte Carlo | Alberto Acevedo, U of Arizona |
+| 17:00--17:30 | TopiQAL: Topic-aware Question Answering using Scalable Domain-specific Supercomputers | Hamsa Shwetha Venkataram, JPL |
+| 17:30--18:00 | DeepGalaxy: Deducing the Properties of Galaxy Mergers from Images Using Deep Neural Networks | Maxwell X. Cai, SURFsara |
+| 18:00--18:10 | Closing Remarks | Workshop Chairs|
+
 The Deep Learning (DL) on Supercomputers workshop (In cooperation with TCHPC and held in conjunction with SC20: The International Conference for High Performance Computing, Networking, Storage and Analysis) is with SC'20 on Nov 15th, 2020 in Atlanta, GA. It is the fifth workshop in the Deep Learning on Supercomputers series. The workshop provides a forum for practitioners working on any and all aspects of DL for scientific research in the High Performance Computing (HPC) context to present their latest research results and development, deployment, and application experiences. 
 The general theme of this workshop series is the intersection of DL and HPC. Its scope encompasses application development in scientific scenarios using HPC platforms; DL methods applied to numerical simulation; fundamental algorithms, enhanced procedures, and software development methods to enable scalable training and inference; hardware changes with impact on future supercomputer design; and machine deployment, performance evaluation, and reproducibility practices for DL applications with an emphasis on scientific usage.
 
