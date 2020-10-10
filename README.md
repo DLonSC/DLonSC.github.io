@@ -1,7 +1,7 @@
 ![TCHPC](https://tc.computer.org/tchpc/wp-content/uploads/sites/3/2017/06/tchpc_logo_cmyk.png){:width="300px"}
 ![SC20](https://sc20.supercomputing.org/app/uploads/2019/07/20-ogimage.png){:width="300px"}
 
-### Program (Nov 11th, 10AM--18:10, US EST)
+### Program (Nov 11th, 10:00--18:10, US EST)
 
 | Time | Title | Speaker |
 | --- | --- | --- |
