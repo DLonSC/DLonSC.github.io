@@ -6,7 +6,7 @@
 | Time | Title | Speaker |
 | --- | --- | --- |
 | 10:00--10:10 | Opening | Workshop Chairs |
-| 10:10--11:10 | Keynote: TBD | Rick Stevens, ANL |
+| 10:10--11:10 | Keynote: AI for Science: AI + HPC | Rick Stevens, ANL |
 | 11:10--11:30 | Morning Break | |
 | 11:30--12:00 | Online-Codistillation Meets LARS; Going beyond the Limit of Data Parallelism in Deep Learning |  Shogo Murai, Preferred Networks Inc |
 | 12:00--13:00 | Lunch Break |  |
