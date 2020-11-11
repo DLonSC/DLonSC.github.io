@@ -8,7 +8,7 @@
 | 10:00--10:10 | Opening | Workshop Chairs |
 | 10:10--11:10 | Keynote: AI for Science: AI + HPC | Rick Stevens, ANL |
 | 11:10--11:30 | Morning Break | |
-| 11:30--12:00 | Online-Codistillation Meets LARS; Going beyond the Limit of Data Parallelism in Deep Learning |  Shogo Murai, Preferred Networks Inc |
+| 11:30--12:00 | Online-Codistillation Meets LARS; Going beyond the Limit of Data Parallelism in Deep Learning |  Masanori Koyama, Preferred Networks Inc |
 | 12:00--13:00 | Lunch Break |  |
 | 13:00--14:00 | Exploring the limits of concurrency in ML Training on Google TPUs | Sameer Kumar, Google |
 | 14:00--14:30 |SC'20 Break | |
