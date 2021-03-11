@@ -1,3 +1,5 @@
+![ISC21](https://www.isc-hpc.com/files/isc_events/theme/images/content/kacheln_2021/header/ISC2021_Kachel-digital-dates_201130.png){:width="300px"}
+
 ### The 6th Deep Learning on Supercomputers Workshop
 
 The Deep Learning (DL) on Supercomputers workshop provides a forum for practitioners working on any and all
