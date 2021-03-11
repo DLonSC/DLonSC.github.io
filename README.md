@@ -1,44 +1,40 @@
-![TCHPC](https://tc.computer.org/tchpc/wp-content/uploads/sites/3/2017/06/tchpc_logo_cmyk.png){:width="300px"}
-![SC20](https://sc20.supercomputing.org/app/uploads/2019/07/20-ogimage.png){:width="300px"}
+![ISC21](https://www.isc-hpc.com/files/isc_events/theme/images/content/kacheln_2021/header/ISC2021_Kachel-digital-dates_201130.png){:width="300px"}
 
-### Program (Nov 11th, 10:00--18:10, US EST)
+### The 6th Deep Learning on Supercomputers Workshop
 
-| Time | Title | Speaker |
-| --- | --- | --- |
-| 10:00--10:10 | Opening | Workshop Chairs |
-| 10:10--11:10 | Keynote: AI for Science: AI + HPC | Rick Stevens, ANL |
-| 11:10--11:30 | Morning Break | |
-| 11:30--12:00 | Online-Codistillation Meets LARS; Going beyond the Limit of Data Parallelism in Deep Learning |  Masanori Koyama, Preferred Networks Inc |
-| 12:00--13:00 | Lunch Break |  |
-| 13:00--14:00 | Exploring the limits of concurrency in ML Training on Google TPUs | Sameer Kumar, Google |
-| 14:00--14:30 |SC'20 Break | |
-| 14:30--15:00 | Time-Based Roofline for Deep Learning Performance Analysis | Yunsong Wang, LBNL |
-| 15:00--15:30 | Towards a Scalable and Distributed Infrastructure for Deep Learning Applications | Bita Hasheminezhad, LSU |
-| 15:30--16:00 | DDLBench: Towards a Scalable Benchmarking Infrastructure for Distributed Deep Learning | Matthijs S. Jansen, SURFsara |
-| 16:00--16:30 | Afternoon Break | |
-| 16:30--17:00 | Vandermonde Wave Function Ansatz for Improved Variational Monte Carlo | Alberto Acevedo, U of Arizona |
-| 17:00--17:30 | TopiQAL: Topic-aware Question Answering using Scalable Domain-specific Supercomputers | Hamsa Shwetha Venkataram, JPL |
-| 17:30--18:00 | DeepGalaxy: Deducing the Properties of Galaxy Mergers from Images Using Deep Neural Networks | Maxwell X. Cai, SURFsara |
-| 18:00--18:10 | Closing Remarks | Workshop Chairs|
-
-The Deep Learning (DL) on Supercomputers workshop (In cooperation with TCHPC and held in conjunction with SC20: The International Conference for High Performance Computing, Networking, Storage and Analysis) is with SC'20 on Nov 15th, 2020 in Atlanta, GA. It is the fifth workshop in the Deep Learning on Supercomputers series. The workshop provides a forum for practitioners working on any and all aspects of DL for scientific research in the High Performance Computing (HPC) context to present their latest research results and development, deployment, and application experiences. 
-The general theme of this workshop series is the intersection of DL and HPC. Its scope encompasses application development in scientific scenarios using HPC platforms; DL methods applied to numerical simulation; fundamental algorithms, enhanced procedures, and software development methods to enable scalable training and inference; hardware changes with impact on future supercomputer design; and machine deployment, performance evaluation, and reproducibility practices for DL applications with an emphasis on scientific usage.
+The Deep Learning (DL) on Supercomputers workshop provides a forum for practitioners working on any and all
+aspects of DL for scientific research in the High Performance Computing (HPC) context to present their latest research
+results and development, deployment, and application experiences. The general theme of this workshop series is the
+intersection of DL and HPC, while the theme of this particular workshop is centered around the applications of deep
+learning methods in scientific research: novel uses of deep learning methods, e.g., convolutional neural networks
+(CNN), recurrent neural networks (RNN), generative adversarial network (GAN), and reinforcement learning (RL),
+for both natural and social science research, and innovative applications of deep learning in traditional numerical
+simulation. Its scope encompasses application development in scientific scenarios using HPC platforms; DL methods
+applied to numerical simulation; fundamental algorithms, enhanced procedures, and software development methods
+to enable scalable training and inference; hardware changes with impact on future supercomputer design; and machine
+deployment, performance evaluation, and reproducibility practices for DL applications with an emphasis on scientific
+usage. This workshop will be centered around published papers. Submissions will be peer-reviewed, and accepted
+papers will be published as part of the Joint Workshop Proceeding by Springer.
 
 Topics include but are not limited to:
-- Emerging scientific applications driven by DL methods
-- Novel interactions between DL and traditional numerical simulation
-- Effectiveness and limitations of DL methods in scientific research
-- Algorithms and procedures to enhance reproducibility of scientific DL applications
-- Data management through the life cycle of scientific DL applications
-- General algorithms and procedures for efficient and scalable DL training
-- General algorithms and systems for large scale model serving for scientific use cases
-- New software, and enhancements to existing software, for scalable DL
-- DL communication optimization at scale
-- I/O optimization for DL at scale
-- Hardware (processors, accelerators, memory hierarchy, interconnect) changes with impact on deep learning in the HPC context
-- DL performance evaluation and analysis on deployed systems
-- DL performance modeling and tuning of DL on supercomputers
-- DL benchmarks on supercomputers
+* DL as a novel approach of scientific computing
+	- Emerging scientific applications driven by DL methods
+	- Novel interactions between DL and traditional numerical simulation
+	- Effectiveness and limitations of DL methods in scientific research
+	- Algorithms and procedures to enhance reproducibility of scientific DL applications
+* DL for science workflows
+	- Data management through the life cycle of scientific DL applications
+	- General algorithms and procedures for efficient and scalable DL training
+* Scalable DL methods to address the challenges of demanding scientific applications
+	- General algorithms and systems for large scale model serving for scientific use cases
+	- New software, and enhancements to existing software, for scalable DL
+	- DL communication optimization at scale
+	- I/O optimization for DL at scale
+	- DL performance evaluation and analysis on deployed systems
+	- DL performance modeling and tuning of DL on supercomputers
+	- DL benchmarks on supercomputers
+* Novel hardware designs for more efficient DL
+	- Processors, accelerators, memory hierarchy, interconnect changes with impact on deep learning in the HPC context
 
 As part of the reproducibility initiative, the workshop requires authors to provide information such as the algorithms, software releases, datasets, and hardware configurations used. For performance evaluation studies, we will encourage authors to use well-known benchmarks or applications with open accessible datasets: for example, [MLPerf](https://github.com/mlperf/training) and ResNet-50 with the [ImageNet-1K dataset](http://www.image-net.org/archive/stanford/fall11_whole.tar).
 
@@ -46,27 +42,30 @@ As part of the reproducibility initiative, the workshop requires authors to prov
 
 <!--- Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files. -->
 
+
+
 ### Import Dates
 
-- Papers due: ~~Sep 1st, 2020~~ Sep 15th, 2020
-- Acceptance notification: ~~Sep 16th, 2020~~ Sep 26th, 2020
-- Camera ready: Oct 1st, 2020
-- Workshop date: Nov 11th, 2020
+- Technical paper due: April 17th, 2021 
+- Acceptance notification: May 1st, 2021
+- Camera ready: June 17th, 2021
+- Workshop date: July 2nd, 2021
+
 
 ### Paper Submission
 
-Authors are invited to submit unpublished, original work with a minimum of 6 and a maximum of 8 pages (excluding references) in [IEEE conference format ](https://www.ieee.org/conferences/publishing/templates.html) and submitted using [Linklings (login required)](https://submissions.supercomputing.org/?page=Submit&id=SC20WorkshopDeepLearningonSupercomputersSubmission&site=sc20). IEEE TCHPC conditionally agrees to publish accepted papers.
+Authors are invited to submit unpublished, original work with a minimum of 6 pages and a maximum of 12 pages in single column text with LNCS style.  All submissions should be in [LNCS format](http://www.springer.com/de/it-informatik/lncs/conference-proceedings-guidelines) and submitted using [EasyChair](https://easychair.org/conferences/?conf=dlonsc2021) tentatively.
 
 
 ### Organizing Committee
-- Valeriu Codreanu (co-chair), SURFsara, Netherlands
+- Valeriu Codreanu (co-chair), SURF, Netherlands
 - Ian Foster (co-chair), UChicago & ANL, USA
 - Zhao Zhang (co-chair), TACC, USA
 - Weijia Xu (proceeding chair), TACC, USA
 - Ahmed Al-Jarro, Fujitsu Laboratories of Europe, UK
 - Takuya Akiba, Preferred Networks, Japan
 - Thomas S. Brettin, ANL, USA
-- Maxwell Cai, SURFsara, Netherlands
+- Maxwell Cai, SURF, Netherlands
 - Erich Elsen, DeepMind, USA
 - Steve Farrell, LBNL, USA
 - Song Feng, IBM Research, USA
@@ -74,9 +73,8 @@ Authors are invited to submit unpublished, original work with a minimum of 6 and
 - Torsten Hoefler, ETH, Switzerland
 - Jessy Li, UT Austin, USA
 - Zhengchun Liu, ANL, USA
-- Chris Mattmann, JPL & USC, USA
 - Peter Messmer, Nvidia, USA
-- Damian Podareanu, SURFsara, Netherlands
+- Damian Podareanu, SURF, Netherlands
 - Simon Portegies Zwart, Leiden Observatory, Netherlands 
 - Qifan Pu, Google, USA
 - Arvind Ramanathan, ANL, USA
@@ -93,3 +91,5 @@ Authors are invited to submit unpublished, original work with a minimum of 6 and
 - Markus Weimer, Microsoft, USA
 - Kathy Yelick, UC Berkeley & LBNL, USA
 - Huazhe Zhang, Facebook, USA
+
+
