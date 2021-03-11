@@ -1,4 +1,4 @@
-### The Deep Learning on Supercomputers Workshop
+### The 6th Deep Learning on Supercomputers Workshop
 
 The Deep Learning (DL) on Supercomputers workshop provides a forum for practitioners working on any and all
 aspects of DL for scientific research in the High Performance Computing (HPC) context to present their latest research
