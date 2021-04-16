@@ -46,8 +46,8 @@ As part of the reproducibility initiative, the workshop requires authors to prov
 
 ### Import Dates
 
-- Technical paper due: April 17th, 2021 
-- Acceptance notification: May 1st, 2021
+- Technical paper due: April 30th, 2021 (AoE) 
+- Acceptance notification: May 15th, 2021
 - Camera ready: June 17th, 2021
 - Workshop date: July 2nd, 2021
 
