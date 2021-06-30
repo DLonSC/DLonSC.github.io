@@ -4,8 +4,8 @@
 
 ### Program (July 2nd, 14:00--18:10, CET)
 
-| Time | Title | Speaker |
-| --- | --- | --- |
+| Time         | Title | Speaker |
+| ---          | --- | --- |
 | 14:00--14:10 | Opening | Workshop Chairs |
 | 14:10--14:35 |  | Alexandre Bonvin & Manon Réau, *Utrecht University* |
 | 14:35--15:00 |  | Jonas Teuwen, *Netherlands Cancer Institute (NKI)* |
