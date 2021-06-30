@@ -4,18 +4,18 @@
 
 ### Program (July 2nd, 14:00--18:10, CET)
 
-| Time         | Title | Speaker |
-| ---          | --- | --- |
-| 14:00--14:10 | Opening | Workshop Chairs |
-| 14:10--14:35 |  | Alexandre Bonvin & Manon Réau, *Utrecht University* |
-| 14:35--15:00 |  | Jonas Teuwen, *Netherlands Cancer Institute (NKI)* |
-| 15:00--15:25 | JUWELS Booster: A Supercomputer for Large-Scale AI Research |  Stefan Kesselheim, *Jülich Supercomputing Center* |
-| 15:25--15:40 | Coffee Break |  |
-| 15:40--16:05 |  | Arvind Ramanathan, *Argonne National Laboratory* |
-| 16:05--16:30 | Dataflow Optimized Systems for ML Accelerated HPC | Chen Liu, *SambaNova Systems* |
-| 16:30--17:00 |ISC'21 Break | |
-| 17:00--17:55 | **Keynote:** High-Performance Scalable Deep Learning | Torsten Hoefler, *ETH Zürich* |
-| 17:55--18:00 | Closing Remarks | Workshop Chairs|
+| Time           | Title | Speaker |
+| ---            | --- | --- |
+| 14:00--14:10   | Opening | Workshop Chairs |
+| 14:10--14:35   |  | Alexandre Bonvin & Manon Réau, *Utrecht University* |
+| 14:35--15:00   |  | Jonas Teuwen, *Netherlands Cancer Institute (NKI)* |
+| 15:00--15:25   | JUWELS Booster: A Supercomputer for Large-Scale AI Research |  Stefan Kesselheim, *Jülich Supercomputing Center* |
+| 15:25--15:40   | Coffee Break |  |
+| 15:40--16:05   |  | Arvind Ramanathan, *Argonne National Laboratory* |
+| 16:05--16:30   | Dataflow Optimized Systems for ML Accelerated HPC | Chen Liu, *SambaNova Systems* |
+| 16:30--17:00   | ISC'21 Break | |
+| 17:00--17:55   | **Keynote:** High-Performance Scalable Deep Learning | Torsten Hoefler, *ETH Zürich* |
+| 17:55--18:00   | Closing Remarks | Workshop Chairs|
 
 
 The Deep Learning (DL) on Supercomputers workshop provides a forum for practitioners working on any and all
