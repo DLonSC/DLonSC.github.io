@@ -2,7 +2,7 @@
 
 ## The 6th Deep Learning on Supercomputers Workshop
 
-### Program (July 2nd, 14:00--18:10, CET)
+### Program (July 2nd, 14:00--18:00, CET)
 
 | Time           | Title | Speaker |
 | ---            | --- | --- |
