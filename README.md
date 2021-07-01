@@ -8,7 +8,7 @@
 | ---            | --- | --- |
 | 14:00--14:10   | Opening | Workshop Chairs |
 | 14:10--14:35   | Deep-learning approaches to Learn Interaction Patterns from Protein-Protein Interfaces | Alexandre Bonvin & Manon Réau, *Utrecht University* |
-| 14:35--15:00   | Reconstruction MRIs with deep learning| Jonas Teuwen, *Netherlands Cancer Institute (NKI)* |
+| 14:35--15:00   | Reconstruction MRIs with Deep Learning| Jonas Teuwen, *Netherlands Cancer Institute (NKI)* |
 | 15:00--15:25   | JUWELS Booster: A Supercomputer for Large-Scale AI Research |  Stefan Kesselheim, *Jülich Supercomputing Center* |
 | 15:25--15:40   | Coffee Break |  |
 | 15:40--16:05   | AI-enabled COVID-19 Drug Discovery | Arvind Ramanathan, *Argonne National Laboratory* |
